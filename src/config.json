@@ -1,0 +1,11 @@
+{
+  "PORT": "3000",
+  "DISCORD": {
+    "WEBHOOK_URL": ""
+  },
+  "NPM": {
+    "MOUNT_POINT": "/incoming",
+    "SERVICE_NAME": "my-service",
+    "SHARED_SECRET": "my-shared-secret"
+  }
+}
